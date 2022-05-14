@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://yes-play-music-pi-weld.vercel.app/:match*"
+      "destination": "http://localhost:3000/:match*"
     }
   ]
 }
